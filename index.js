@@ -1,7 +1,7 @@
 // index.js
 const { Client, GatewayIntentBits, Events } = require("discord.js");
 
-const TOKEN = "MTQzNTc2MDc1NTA4NDYyMzk1Mg.GRrVeF.ZriDdnYhtVDtF6kPhtQDyzjSRHp4ClvjdBg06k";  // 🔑 schimbă cu tokenul tău
+const TOKEN = "";  // 🔑 schimbă cu tokenul tău
 const PREFIX = "!";
 
 const client = new Client({
